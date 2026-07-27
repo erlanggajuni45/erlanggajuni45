@@ -39,10 +39,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/MLOps-000000?style=for-the-badge&logo=opslevel&logoColor=white" />
   <img src="https://img.shields.io/badge/Machine_Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Ollama / LLMs-000000?style=for-the-badge&logo=ollama&logoColor=white" />
 </p>
 
 ---
