@@ -12,10 +12,8 @@
 
   <!-- Social Badges -->
   <p>
-    <a href="https://erlanggajuni.dev"><img src="https://img.shields.io/badge/Website-erlanggajuni.dev-00ADD8?style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
+    <a href="https://erlanggajuni.tech"><img src="https://img.shields.io/badge/Website-erlanggajuni.tech-00ADD8?style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
     <a href="https://linkedin.com/in/erlangga-juni-saputra"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-    <a href="https://x.com/erlangga_juni_s"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" /></a>
-    <a href="https://instagram.com/erlanggajuni45"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
     <a href="https://www.dicoding.com/users/erlanggajuni45/academies"><img src="https://img.shields.io/badge/Dicoding-2D3E50?style=for-the-badge&logo=dicoding&logoColor=white" /></a>
     <a href="https://www.boot.dev/u/erlanggajuni45"><img src="https://img.shields.io/badge/Boot.dev-FF4081?style=for-the-badge&logo=game-and-watch&logoColor=white" /></a>
   </p>
